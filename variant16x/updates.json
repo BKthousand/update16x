@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/variant16x/files",
   "promos": {
+    "1.16.1-latest": "0.13.3_alpha_pre1",
+    "1.16.1-recommended": "0.13.3_alpha_pre1",
     "1.15.2-latest": "0.11.2_beta",
     "1.15.2-recommended": "0.11.2_beta",
     "1.15.1-latest": "0.11.2_beta",
