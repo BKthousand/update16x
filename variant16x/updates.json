@@ -1,14 +1,14 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/variant16x/files",
   "promos": {
-    "1.16.4-latest": "0.17.4_beta_pre3",
-    "1.16.3-latest": "0.17.4_beta_pre3",
+    "1.16.4-latest": "0.17.4_beta_pre4",
+    "1.16.3-latest": "0.17.4_beta_pre4",
     "1.16.3-recommended": "0.15.4.3_beta",
-    "1.16.1-latest": "0.17.3_beta_pre2",
+    "1.16.1-latest": "0.17.3_beta_pre4",
     "1.16.1-recommended": "0.15.3.3_beta",
-    "1.15.2-latest": "0.17.2_beta_pre2",
+    "1.15.2-latest": "0.17.2_beta_pre4",
     "1.15.2-recommended": "0.15.2.3_beta",
-    "1.14.4-latest": "0.17.1_beta_pre2",
+    "1.14.4-latest": "0.17.1_beta_pre4",
     "1.14.4-recommended": "0.15.1.3_beta"
   }
 }
