@@ -3,13 +3,13 @@
   "promos": {
     "1.16.5-latest": "0.21.4_beta_pre1",
     "1.16.5-recommended": "0.17.4.5_beta",
-    "1.16.4-latest": "0.17.4.5_beta",
+    "1.16.4-latest": "0.21.4_beta_pre1",
     "1.16.4-recommended": "0.17.4.5_beta",
-    "1.16.3-latest": "0.17.4.5_beta",
+    "1.16.3-latest": "0.21.4_beta_pre1",
     "1.16.3-recommended": "0.17.4.5_beta",
     "1.16.1-latest": "0.17.3.5_beta",
     "1.16.1-recommended": "0.17.3.5_beta",
-    "1.15.2-latest": "0.17.2.4_beta",
+    "1.15.2-latest": "0.21.2_beta_pre1",
     "1.15.2-recommended": "0.17.2.4_beta",
     "1.14.4-latest": "0.17.1.4_beta",
     "1.14.4-recommended": "0.17.1.4_beta"
