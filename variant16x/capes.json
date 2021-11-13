@@ -1,1 +1,18 @@
-{}
+{
+  "3e1e75c8-4c46-4559-a595-75670e6b2621": {
+    "username": "BKthousand",
+    "donorData": {
+      "isDonor": true,
+      "donorLevel": "emerald"
+    },
+    "isDev": true,
+    "capeTypeOverride": "creator"
+  },
+  "4b644621-26be-4f09-bd25-fdb906d4c693": {
+    "username": "BKten",
+    "donorData": {
+      "isDonor": true,
+      "donorLevel": "emerald"
+    }
+  }
+}
