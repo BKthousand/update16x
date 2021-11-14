@@ -13,7 +13,6 @@
     "donorData": {
       "isDonor": true,
       "donorLevel": "emerald"
-    },
-    "isDeveloper": true
+    }
   }
 }
