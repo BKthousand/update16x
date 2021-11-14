@@ -10,6 +10,10 @@
   },
   "4b644621-26be-4f09-bd25-fdb906d4c693": {
     "username": "BKten",
-    "isTranslator": true
+    "donorData": {
+      "isDonor": true,
+      "donorLevel": "emerald"
+    },
+    "isDeveloper": true
   }
 }
