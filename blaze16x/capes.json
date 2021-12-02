@@ -3,19 +3,19 @@
     "username": "BKthousand",
     "donorData": {
       "isDonor": true,
-      "levelData": {
+      "donorLevelData": {
         "level": "diamond",
         "capeType": "gold"
       }
     },
-    "isTranslator": true,
+    "isTranslator": false,
     "capeType": "creator"
   },
   "4b644621-26be-4f09-bd25-fdb906d4c693": {
     "username": "BKten",
     "donorData": {
       "isDonor": true,
-      "levelData": {
+      "donorLevelData": {
         "level": "diamond"
       }
     }
@@ -24,7 +24,7 @@
     "username": "Sustat",
     "donorData": {
       "isDonor": true,
-      "levelData": {
+      "donorLevelData": {
         "level": "gold"
       }
     }
