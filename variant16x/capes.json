@@ -21,5 +21,12 @@
       "isDonor": true,
       "donorLevel": "gold"
     }
+  },
+    "f144aca6-fdcb-4ac0-b839-4132757cb16d": {
+    "username": "RodentLord",
+    "donorData": {
+      "isDonor": true,
+      "donorLevel": "diamond"
+    }
   }
 }
