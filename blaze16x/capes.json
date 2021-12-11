@@ -16,7 +16,8 @@
     "donorData": {
       "isDonor": true,
       "donorLevelData": {
-        "level": "diamond"
+        "level": "diamond",
+        "capeType": "iron"
       }
     }
   },
