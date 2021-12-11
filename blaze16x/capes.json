@@ -3,10 +3,8 @@
     "username": "BKthousand",
     "donorData": {
       "isDonor": true,
-      "donorLevelData": {
-        "level": "diamond",
-        "capeType": "netherite"
-      }
+      "donorLevel": "diamond",
+      "capeType": "netherite"
     },
     "isTranslator": false,
     "capeType": "netherite"
@@ -15,28 +13,22 @@
     "username": "BKten",
     "donorData": {
       "isDonor": true,
-      "donorLevelData": {
-        "level": "diamond",
-        "capeType": "iron"
-      }
+      "donorLevel": "diamond",
+      "capeType": "iron"
     }
   },
   "218f72c0-08db-48da-9f69-97f53ed90269": {
     "username": "Sustat",
     "donorData": {
       "isDonor": true,
-      "donorLevelData": {
-        "level": "gold"
-      }
+      "donorLevel": "gold"
     }
   },
   "f144aca6-fdcb-4ac0-b839-4132757cb16d": {
     "username": "RodentLord",
     "donorData": {
       "isDonor": true,
-      "donorLevelData": {
-        "level": "diamond"
-      }
+      "donorLevel": "diamond"
     }
   }
 }
