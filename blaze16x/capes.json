@@ -4,7 +4,8 @@
     "isEnabled": true,
     "donorData": {
       "isDonor": true,
-      "level": "diamond"
+      "level": "diamond",
+      "capeType": null
     },
     "translatorData": {
       "isTranslator": false
