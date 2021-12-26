@@ -10,7 +10,7 @@
     "translatorData": {
       "isTranslator": false
     },
-    "capeType": "iron"
+    "capeType": "copper"
   },
   "4b644621-26be-4f09-bd25-fdb906d4c693": {
     "username": "BKten",
@@ -19,8 +19,7 @@
       "isDonor": true,
       "level": "diamond",
       "capeType": "iron"
-    },
-    "capeType": "emerald"
+    }
   },
   "f144aca6-fdcb-4ac0-b839-4132757cb16d": {
     "username": "RodentLord",
