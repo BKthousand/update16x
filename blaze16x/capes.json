@@ -1,29 +1,28 @@
 {
   "3e1e75c8-4c46-4559-a595-75670e6b2621": {
     "username": "BKthousand",
-    "isEnabled": true,
     "donorData": {
       "isDonor": true,
       "level": "diamond",
-      "capeType": null
+      "capeDisplayed": null,
+      "overrideTranslatorCape": false
     },
     "translatorData": {
       "isTranslator": false
     },
-    "capeType": "netherite"
+    "customCapeDisplayed": "netherite",
+    "overrideHolidayCape": false
   },
   "4b644621-26be-4f09-bd25-fdb906d4c693": {
     "username": "BKten",
-    "isEnabled": true,
     "donorData": {
       "isDonor": true,
       "level": "diamond",
-      "capeType": "iron"
+      "capeDisplayed": "iron"
     }
   },
   "f144aca6-fdcb-4ac0-b839-4132757cb16d": {
     "username": "RodentLord",
-    "isEnabled": true,
     "donorData": {
       "isDonor": true,
       "level": "diamond"
@@ -31,7 +30,6 @@
   },
   "218f72c0-08db-48da-9f69-97f53ed90269": {
     "username": "Sustat",
-    "isEnabled": true,
     "donorData": {
       "isDonor": true,
       "level": "gold"
