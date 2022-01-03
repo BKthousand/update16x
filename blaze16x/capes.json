@@ -13,12 +13,18 @@
     "customCapeDisplayed": "netherite",
     "overrideHolidayCape": false
   },
+  "218f72c0-08db-48da-9f69-97f53ed90269": {
+    "username": "Sustat",
+    "donorData": {
+      "isDonor": true,
+      "level": "gold"
+    }
+  },
   "4b644621-26be-4f09-bd25-fdb906d4c693": {
     "username": "BKten",
     "donorData": {
       "isDonor": true,
-      "level": "diamond",
-      "capeDisplayed": "iron"
+      "level": "diamond"
     }
   },
   "f144aca6-fdcb-4ac0-b839-4132757cb16d": {
@@ -26,13 +32,6 @@
     "donorData": {
       "isDonor": true,
       "level": "diamond"
-    }
-  },
-  "218f72c0-08db-48da-9f69-97f53ed90269": {
-    "username": "Sustat",
-    "donorData": {
-      "isDonor": true,
-      "level": "gold"
     }
   }
 }
